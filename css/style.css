@@ -22,6 +22,7 @@ body {
     height: 100%;
     background-color: rgba(0, 0, 0, 0.2);
     border-radius: 10px;
+    position: absolute;
 }
 
 /*fine common*/
@@ -46,7 +47,6 @@ header {
 
 .menu {
     list-style-type: none;
-
 }
 
 .menu li {
@@ -69,6 +69,7 @@ header {
     margin-bottom: 20px;
     height: 500px;
     position: relative;
+    overflow: hidden;
 }
 
 .banner .teaser {
@@ -97,6 +98,7 @@ header {
 
 .col-img {
     height: 200px;
+    position: relative;
 }
 
 .col-top {
