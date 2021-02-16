@@ -122,11 +122,11 @@ h4 {
     margin-top: 10px;
 }
 
-footer {
+.text-footer {
     margin: auto;
     text-align: center;
-    margin-top: 560px;
-    margin-bottom: 15px;
+    margin-top: 500px;
+    margin-bottom: 20px;
 }
 
 .red {
